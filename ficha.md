@@ -32,11 +32,11 @@ Mi página favorita para escuchar musica:
 - <<[Spotify](https://open.spotify.com/intl-es)>>
 
 Un video recomendado:
-- <<[Mundial] (https://youtu.be/B7hIiaXBpco?si=B0BWCwXSyasnYlWr)>>
+- <<[Mundial](https://youtu.be/B7hIiaXBpco?si=B0BWCwXSyasnYlWr)>>
 
 ## 🖼️ Imagen
 
-![Ghibli] <<(https://share.google/1vBmIx6XmMbe7TP8y)>>
+![Ghibli]<<(https://share.google/1vBmIx6XmMbe7TP8y)>>
 
 ## 🌈 Emojis con intención
 
